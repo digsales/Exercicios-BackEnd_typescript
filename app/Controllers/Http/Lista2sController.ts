@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/explicit-member-accessibility */
 // import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
+// lista 2 concluida
 
 export default class Lista2sController {
 
@@ -215,5 +216,3 @@ export default class Lista2sController {
       }
     }
   }
-
-  // concluido
